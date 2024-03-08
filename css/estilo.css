@@ -1,0 +1,268 @@
+*{
+    margin: 0%px;
+    padding: 0px;
+}
+body{
+    background: #81b71a;
+    background-size: cover;
+    color: #81b71a;
+}
+.fondo_portada{
+    background: black;
+    width: 1325px;
+    height: 350px;
+    padding: 20px;
+    margin-top: 0px;
+    margin-bottom: 0px;
+    margin-left: 0px;
+    margin-right: 0px;
+}
+.fondo_delantera{
+    background: url(../img/spot.avif) no-repeat;
+    background-size: cover;
+    width: 1124px;
+    height: 390px;
+    margin-top: -390px;
+    margin-left: 110px;
+    align-items: center;
+}
+.Musica{
+color: rgb(113, 228, 103);
+font-family: Georgia, 'Times New Roman', Times, serif;
+background: none;
+background-size: cover;
+font-size: 70px;
+width: 390px;
+height: 80px;
+padding: 20px;
+margin-top: -390px;
+margin-left: 500px;
+}
+.sesion{
+    background-color:  #81b71a;
+    background-size: cover;
+    font-size: 30px;
+    width: 210px;
+    height: 10px;
+    padding: 20px;
+    margin-top:  -110px;
+    margin-bottom: 0px;
+    margin-left: 970px;
+    margin-right: 0px;
+    border-radius: 15px;
+
+}
+.Musicas{
+    color: rgb(113, 228, 103);
+    font-size: 53px;
+    background: url(../img/Color_negro.jpg);
+    background-size: cover;
+    width: 1330px;
+    height: 40px;
+    padding: 20px;
+    margin-top: 340px;
+    margin-bottom: 0px;
+    margin-left: 0px;
+    margin-right: 0px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+.Musica1{
+    background: none;
+    width: 210px;
+    height: 290px;
+    padding: 0px;
+    margin-top: 15px;
+    margin-bottom: 0px;
+    margin-left: 110px;
+    margin-right: 0px;
+}
+.Musica2{
+    background: none;
+    width: 210px;
+    height: 290px;
+    padding: 0px;
+    margin-top: -290px;
+    margin-bottom: 0px;
+    margin-left: 340px;
+    margin-right: 0px;
+}
+.Musica3{
+    background: none;
+    width: 210px;
+    height: 290px;
+    padding: 0px;
+    margin-top: -290px;
+    margin-bottom: 0px;
+    margin-left: 570px;
+    margin-right: 0px;
+}
+.Musica4{
+    background: none;
+    width: 210px;
+    height: 290px;
+    padding: 0px;
+    margin-top: -290px;
+    margin-bottom: 0px;
+    margin-left: 800px;
+    margin-right: 0px;
+}
+.Musica5{
+    background: none;
+    width: 210px;
+    height: 290px;
+    padding: 0px;
+    margin-top: -290px;
+    margin-bottom: 0px;
+    margin-left: 1030px;
+    margin-right: 0px;
+}
+.Musica6{
+    background: none;
+    width: 210px;
+    height: 290px;
+    padding: 0px;
+    margin-top: 15px;
+    margin-bottom: 0px;
+    margin-left: 110px;
+    margin-right: 0px;
+}
+.Musica7{
+    background: none;
+    width: 210px;
+    height: 290px;
+    padding: 0px;
+    margin-top: -290px;
+    margin-bottom: 0px;
+    margin-left: 340px;
+    margin-right: 0px;
+}
+.Musica8{
+    background: none;
+    width: 210px;
+    height: 290px;
+    padding: 0px;
+    margin-top: -290px;
+    margin-bottom: 0px;
+    margin-left: 570px;
+    margin-right: 0px;
+}
+.Musica9{
+    background: none;
+    width: 210px;
+    height: 290px;
+    padding: 0px;
+    margin-top: -290px;
+    margin-bottom: 0px;
+    margin-left: 800px;
+    margin-right: 0px;
+}
+.Musica10{
+    background: none;
+    width: 210px;
+    height: 290px;
+    padding: 0px;
+    margin-top: -290px;
+    margin-bottom: 0px;
+    margin-left: 1030px;
+    margin-right: 0px;
+}
+.Musica11{
+    background: none;
+    width: 210px;
+    height: 290px;
+    padding: 0px;
+    margin-top: 15px;
+    margin-bottom: 0px;
+    margin-left: 110px;
+    margin-right: 0px;
+}
+.Musica12{
+    background: none;
+    width: 210px;
+    height: 290px;
+    padding: 0px;
+    margin-top: -290px;
+    margin-bottom: 0px;
+    margin-left: 340px;
+    margin-right: 0px;
+}
+.Musica13{
+    background: none;
+    width: 210px;
+    height: 290px;
+    padding: 0px;
+    margin-top: -290px;
+    margin-bottom: 0px;
+    margin-left: 570px;
+    margin-right: 0px;
+}
+.Musica14{
+    background: none;
+    width: 210px;
+    height: 290px;
+    padding: 0px;
+    margin-top: -290px;
+    margin-bottom: 0px;
+    margin-left: 800px;
+    margin-right: 0px;
+}
+.Musica15{
+    background: none;
+    width: 210px;
+    height: 290px;
+    padding: 0px;
+    margin-top: -290px;
+    margin-bottom: 0px;
+    margin-left: 1030px;
+    margin-right: 0px;
+}
+.Musica16{
+    background: none;
+    width: 210px;
+    height: 290px;
+    padding: 0px;
+    margin-top: 15px;
+    margin-bottom: 0px;
+    margin-left: 110px;
+    margin-right: 0px;
+}
+.Musica17{
+    background: none;
+    width: 210px;
+    height: 290px;
+    padding: 0px;
+    margin-top: -290px;
+    margin-bottom: 0px;
+    margin-left: 340px;
+    margin-right: 0px;
+}
+.Musica18{
+    background: none;
+    width: 210px;
+    height: 290px;
+    padding: 0px;
+    margin-top: -290px;
+    margin-bottom: 0px;
+    margin-left: 570px;
+    margin-right: 0px;
+}
+.Musica19{
+    background: none;
+    width: 210px;
+    height: 290px;
+    padding: 0px;
+    margin-top: -290px;
+    margin-bottom: 0px;
+    margin-left: 800px;
+    margin-right: 0px;
+}
+.Musica20{
+    background: none;
+    width: 210px;
+    height: 290px;
+    padding: 0px;
+    margin-top: -290px;
+    margin-bottom: 0px;
+    margin-left: 1030px;
+    margin-right: 0px;
+}
